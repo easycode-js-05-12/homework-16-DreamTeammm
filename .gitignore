@@ -1,0 +1,17 @@
+*\#
+*~
+*.\#*
+*.swp
+.idea/*
+.idea/
+.vscode
+.poll_stamp
+*.DS_Store
+log
+.sass-cache/*
+.sass-cache/
+dist
+dist/*
+node_modules/
+temp/
+package-lock.json
